@@ -1,1 +1,0 @@
-Загрузите index.html и lessons.html в корень GitHub-репозитория. Settings → Pages → Deploy from branch → main → /root.
