@@ -1,0 +1,1 @@
+Загрузите все файлы в корень репозитория GitHub Pages: index.html, lessons.html, literature.html, video-test.html.
